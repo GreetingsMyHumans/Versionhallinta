@@ -1,0 +1,5 @@
+# This .gitignore file should be placed at the root of your project directory
+# "Passwords" and "UserSettings" -folders are ignored since they contain sensitive data
+
+/[Pp[asswords/
+/[Uu]ser[Ss]ettings/
